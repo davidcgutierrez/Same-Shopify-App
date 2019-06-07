@@ -1,3 +1,4 @@
+// ngrok http -subdomain=myshopifyapp 3000
 const Index = () => (
   <div>
     <p>Sample app using React and Next.js</p>
